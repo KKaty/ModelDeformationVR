@@ -1,0 +1,149 @@
+D:\initiation\testInstalMath1\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\initiation\testImportFiles\Temp\bin\Debug\Assembly-CSharp.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\initiation\testImportFiles\Temp\bin\Debug\Accord.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\Accord.Math.Core.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\Accord.Math.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\nunit.framework.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.Advertisements.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.Analytics.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.Graphs.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.HoloLens.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.Networking.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.Purchasing.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.Timeline.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.UI.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.VR.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.Advertisements.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.Purchasing.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.UI.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\Unity.Cecil.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\Unity.DataContract.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\ExCSS.Unity.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\Unity.CecilTools.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.UI.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.UI.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.Networking.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.TestRunner.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\nunit.framework.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.Timeline.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.HoloLens.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.VR.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\Accord.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\Accord.Math.Core.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\Accord.Math.xml
+D:\initiation\testImportFiles\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\initiation\testImportFiles\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\initiation\testImportFiles\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\initiation\testImportFiles\obj\Debug\Assembly-CSharp.dll
+D:\initiation\testImportFiles\obj\Debug\Assembly-CSharp.pdb
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\Assembly-CSharp.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\Accord.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\Accord.Math.Core.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\Accord.Math.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\nunit.framework.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.Advertisements.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.Analytics.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.Graphs.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.HoloLens.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.Networking.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.Purchasing.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.Timeline.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.UI.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.VR.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.Advertisements.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.Purchasing.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.UI.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\Unity.Cecil.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\Unity.DataContract.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\ExCSS.Unity.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\Unity.CecilTools.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.UI.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.UI.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.Networking.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.TestRunner.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\nunit.framework.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.Timeline.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.HoloLens.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.VR.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\Accord.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\Accord.Math.Core.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\Accord.Math.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\obj\Debug\Assembly-CSharp.dll
+D:\githubLocal\Meshes Cages and Coordinates\testImportFiles\obj\Debug\Assembly-CSharp.pdb

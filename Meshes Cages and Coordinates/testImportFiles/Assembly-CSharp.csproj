@@ -76,61 +76,61 @@
     <None Include="Assets\StreamingAssets\armadillo coord TXT.txt" />
     <None Include="Assets\StreamingAssets\armadillocage TXT.txt" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Editor">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-weaver.Editor">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Runtime">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -310,22 +310,22 @@
       <HintPath>D:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="Accord">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Assets/Packages/Accord.3.6.0/lib/net35/Accord.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Assets/Packages/Accord.3.6.0/lib/net35/Accord.dll</HintPath>
     </Reference>
     <Reference Include="Accord.Math.Core">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Assets/Packages/Accord.Math.3.6.0/lib/net35/Accord.Math.Core.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Assets/Packages/Accord.Math.3.6.0/lib/net35/Accord.Math.Core.dll</HintPath>
     </Reference>
     <Reference Include="Accord.Math">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Assets/Packages/Accord.Math.3.6.0/lib/net35/Accord.Math.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Assets/Packages/Accord.Math.3.6.0/lib/net35/Accord.Math.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/files/2019 ENSAM/internship(2020.2-2020.8) Genova/initiation/testImportFiles/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/DELL/Documents/ModelDeformationVR/Meshes Cages and Coordinates/testImportFiles/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>D:/Program Files (x86)/Unity/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

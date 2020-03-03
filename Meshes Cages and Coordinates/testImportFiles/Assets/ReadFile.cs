@@ -27,7 +27,12 @@ public class ReadFile : MonoBehaviour
         var barMatrices = ReadMatrixFromFile(barCoordFileName, true);
         Debug.Log("load matrix 3");
 
-
+        var produit = Matrix.Dot(barMatrices,cageMatrices);
+        for (int i = 0; i < Matrix.Rows(produit); i++)
+        {
+            for (int j = 0; j < 3; j++)
+            { Debug.Log("produit" + produit[i, j]); }
+        }
     }
 
 

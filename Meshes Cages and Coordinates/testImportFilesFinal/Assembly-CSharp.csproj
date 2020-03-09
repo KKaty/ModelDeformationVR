@@ -69,9 +69,9 @@
     <None Include="Assets\Packages\Accord.Math.3.6.0\lib\net35\Accord.Math.Core.xml" />
     <None Include="Assets\StreamingAssets\armadillo coord test 5 rowsTXT.txt" />
     <None Include="Assets\Packages\Accord.3.6.0\lib\net35\Accord.xml" />
-    <None Include="Assets\StreamingAssets\armadillo TXT - 副本.txt" />
-    <None Include="Assets\StreamingAssets\armadillo coord test 1 rowsTXT - 副本.txt" />
-    <None Include="Assets\StreamingAssets\armadillocage TXT - 副本.txt" />
+    <None Include="Assets\StreamingAssets\armadillo TXT - copy.txt" />
+    <None Include="Assets\StreamingAssets\armadillo coord test 1 rowTXT - copy.txt" />
+    <None Include="Assets\StreamingAssets\armadillocage TXT - copy.txt" />
     <None Include="Assets\StreamingAssets\armadillo coord test 10 rowsTXT.txt" />
     <None Include="Assets\StreamingAssets\armadillo coord TXT.txt" />
     <None Include="Assets\StreamingAssets\armadillocage TXT.txt" />

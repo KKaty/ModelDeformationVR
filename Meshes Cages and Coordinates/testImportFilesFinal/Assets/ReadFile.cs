@@ -31,7 +31,7 @@ public class ReadFile : MonoBehaviour
         for (int i = 0; i < Matrix.Rows(produit); i++)
         {
             for (int j = 0; j < 3; j++)
-            { Debug.Log("produit" + produit[i, j]); }
+            { Debug.Log("produit"+"["+i+","+j+"]" + produit[i, j]); }
         }
     }
 

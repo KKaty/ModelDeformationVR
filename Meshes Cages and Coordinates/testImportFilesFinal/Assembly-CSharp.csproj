@@ -62,17 +62,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\MeshCreateControlPoints.cs" />
+    <Compile Include="Assets\MeshRecreate.cs" />
     <Compile Include="Assets\ReadCoord.cs" />
     <Compile Include="Assets\ReadFile.cs" />
-    <Compile Include="Assets\scripts\MeshCreateControlPoints.cs" />
-    <Compile Include="Assets\scripts\MeshRecreate.cs" />
-    <Compile Include="Assets\scripts\ReadFileComputeNewcage.cs" />
-    <Compile Include="Assets\scripts\SelectionManager.cs" />
-    <Compile Include="Assets\scripts\SelectionManagerOriginal.cs" />
-    <Compile Include="Assets\scripts\SwitchCameraMouse.cs" />
-    <Compile Include="Assets\scripts\testCameraHeight.cs" />
-    <Compile Include="Assets\scripts\testlList.cs" />
-    <Compile Include="Assets\scripts\testMatrixtoList.cs" />
+    <Compile Include="Assets\ReadFileComputeNewcage.cs" />
+    <Compile Include="Assets\SelectionManager.cs" />
+    <Compile Include="Assets\SelectionManagerOriginal.cs" />
+    <Compile Include="Assets\SwitchCameraMouse.cs" />
+    <Compile Include="Assets\testCameraHeight.cs" />
+    <Compile Include="Assets\testlList.cs" />
+    <Compile Include="Assets\testMatrixtoList.cs" />
     <None Include="Assets\StreamingAssets\armadillo TXT.txt" />
     <None Include="Assets\Packages\Accord.Math.3.6.0\lib\net35\Accord.Math.xml" />
     <None Include="Assets\Packages\Accord.Math.3.6.0\lib\net35\Accord.Math.Core.xml" />
